@@ -9,7 +9,5 @@
 * Grid Layout
 * Flexbox
 
-https://romantikhonov375.github.io/russian-travel/
-
 
 *Планируется добавление формы обратной связи для пользователей*
