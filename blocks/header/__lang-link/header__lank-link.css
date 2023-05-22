@@ -1,0 +1,32 @@
+.header__lang-link {
+    color: #fff;
+    font-family: 'Inter-Regular','Arial', 'Helvetica', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    text-decoration: none;
+    -webkit-transition: opacity 0.5s;
+    -o-transition: opacity 0.5s;
+    transition: opacity 0.5s;
+}
+
+.header__lang-link:hover {
+    text-decoration: underline;
+}
+
+.header__lang-link:active {
+    text-decoration: underline;
+}
+
+.header__lang-link:focus {
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 540px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
