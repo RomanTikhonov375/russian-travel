@@ -1,7 +1,7 @@
 .photo-grid {
     display: grid;
     padding-top: 90px;
-    padding-bottom: 10px;
+    padding-bottom: 13px;
     grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
     grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
     row-gap: 16px;
@@ -19,6 +19,7 @@
 @media screen and (max-width: 540px) {
     .photo-grid {
         padding-top: 64px;
-        margin: 0 16px; 
+        margin: 0 16px;
+        row-gap: 12px;
     }
 }

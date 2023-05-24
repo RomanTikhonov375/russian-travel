@@ -1,4 +1,5 @@
-.cover__overlay::before {
+.cover__overlay::after {
+    z-index: 0;
     top: 0;
     left: 0;
     position: absolute;
@@ -10,5 +11,9 @@
     opacity: 0.3;
     width: 100%;
     height: 100%;
+}
+
+.cover__overlay:hover::after {
+    opacity: 0.8;
 }
 

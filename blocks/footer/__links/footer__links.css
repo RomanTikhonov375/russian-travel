@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     align-items: flex-start;
-    height: auto;
 }
 
 @media screen and (max-width: 640px) {

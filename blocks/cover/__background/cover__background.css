@@ -9,9 +9,7 @@
     background-size: cover;
     width: 100%;
     min-height: 740px;
-    -webkit-transition: opacity 0.5s;
-    -o-transition: opacity 0.5s;
-    transition: opacity 0.5s;
+
 }
 
 @media screen and (max-width: 1024px) {

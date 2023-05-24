@@ -1,6 +1,6 @@
 .cover__title {
-    z-index: 0;
-    font-family: 'Inter-Black','Arial', 'Helvetica', sans-serif;
+    z-index: 2;
+    position: relative;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
