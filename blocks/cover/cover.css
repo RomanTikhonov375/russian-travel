@@ -1,4 +1,5 @@
 .cover {
+    position: relative;
     max-width: 92%;
     margin: 0 48px;
 }
